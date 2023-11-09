@@ -49,7 +49,7 @@
         "wdi5": "wdio app/admin-books/webapp/test/wdi5/wdio.conf.js"
     },
     "engines": {
-        "node": "^16"
+        "node": "^18"
     },
     "cds": {
         "features": {
